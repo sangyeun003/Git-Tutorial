@@ -1,2 +1,8 @@
 test branch 만들어서 수정함
+<<<<<<< HEAD
 testtest branch에서 test.txt 수정한 이후로, test branch에서 test.txt를 수정함
+=======
+test <- HEAD인 상태에서 testtest branch 만듦
+>>>>>>> testtest
+
+위 두 경우에서 conflict 발생해서 새로 commit함
